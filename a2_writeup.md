@@ -12,9 +12,9 @@ This assignment is about learning and applying the while loop and iterating thro
 
 ## Reflection Questions
 1. What was difficult for you while completing the match function?
+When completing the match function, the most difficult part was the if statement for the % sign. Python would try to access an out of bounds index of the list if I tried to check the next element of the pattern when the % was at the end. 
 
 
 
 2. Explain how you could use the match function for extracting information from a movie database.
-
-
+You could use the match function to create prompt templates for theoretical questions the user could ask the movie database, so that information from the prompt could be easily extracted.
